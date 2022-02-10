@@ -1,5 +1,6 @@
 import React from 'react'
 import ScrollLoadComponent from '../../src/index'
+// import ScrollLoadComponent from 'scroll-load-component' // for npm link
 
 class App extends React.Component {
     render() {

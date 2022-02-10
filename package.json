@@ -1,6 +1,6 @@
 {
   "name": "scroll-load-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "基于IntersectionObserver实现的React滚动加载组件",
   "main": "lib/index.js",
   "files": [

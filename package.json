@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "基于IntersectionObserver实现的React滚动加载组件",
   "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
   "scripts": {
     "start": "webpack-dev-server --open development",
     "build": "tsc",
